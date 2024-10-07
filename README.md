@@ -17,7 +17,6 @@
 > > in a data frame titled spending_summary<br>
 > > * do the same as above but sorting by school size in a data frame called size_summary<br>
 > > * doing the same as above but sorting by school type in a data frame called type_summary<br>
-<br>
 ### Analyzing the various summarization data frames allows us to determine the below analysis:<br>
 > - Charter schools significantly outperform District schools as Charter schools populate the top 8 of school<br>
 > performance in overall passing percentage while at least the bottom 5 schools in overall passing percentage<br> 
